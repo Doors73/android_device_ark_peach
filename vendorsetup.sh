@@ -1,1 +1,1 @@
-add_lunch_combo slim_peach-userdebug
+add_lunch_combo aoscp_peach-userdebug
